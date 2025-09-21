@@ -37,6 +37,3 @@ int main() {
     cout << "Reversed array: ";
     displayArray(names);
 
-    delete[] names;
-    return 0;
-}
